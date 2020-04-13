@@ -8,5 +8,6 @@ The 2D data can be reduced in multiple ways: linear integration along the q_z or
 # Installation
 This library is written for Matlab and has been tested with versions > 2012a. Copy the folder @Blade into your directory (most common: <User-Directory>/Documents/MATLAB). That's it. You may try the library with the demo folder.
 
-Questions: Laboratory of membrane and protein dynamics, McMaster University,
+#Questions
+Laboratory of membrane and protein dynamics, McMaster University,
 Sebastian Himbert (himberts@mcmaster.ca)
